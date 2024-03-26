@@ -17,7 +17,7 @@ using UnityEngine;
 namespace Scp073.Commands
 {
     [CommandHandler(typeof(RemoteAdminCommandHandler))]
-    public class SpawnSCP273 : ICommand
+    public class SpawnSCP073 : ICommand
     {
         
        
